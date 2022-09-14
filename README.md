@@ -1,7 +1,13 @@
-Hello, any interest?
+** Description
+A greedy cat alone, but generous to anybody.
 
-**WARNING** this cat is always seeking and eating something interesting, and he almost eats anything!
+** Skill
++ good at c/maclisp/haskell, fluent in js/lua/python/ruby.
++ research field: combinatorial optimization, combinatorial game theory, computation complexity
++ newbie of linux kernel and embeded system development
 
-Good at c/maclisp/haskell, also fluent in most fashionable script languages, e. g. js/lua/python/ruby/sh.
+** Attributes
++ [Komeiji Satori](https://en.touhouwiki.net/wiki/Satori_Komeiji) is my honmei!
++ heavily addicted to black tea, thinkpad T-series and emacs
 
 Welcome to discuss with me!
