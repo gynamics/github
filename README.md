@@ -1,4 +1,5 @@
-**Description** A greedy cat alone, but generous to anybody.
+**Description**
+A greedy cat wandering alone, but generous to anybody.
 
 **Skills**
 + good at c/maclisp/haskell, fluent in js/lua/python/ruby.
